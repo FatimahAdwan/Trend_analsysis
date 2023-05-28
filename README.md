@@ -5,9 +5,9 @@ In this project, the following questions were answered
 -	What are the other tends we can see in the data i.e focus on the average daily rate and guest to explore seasonality
 
 Pipeline
-•	Build a database 
-•	Develop the SQL Query
-•	Do some exploratory analysis using SQL
-•	Connect PowerBI to the database
-•	Visualize
-•	Summarise findings
+-	Build a database 
+-	Develop the SQL Query
+-	Do some exploratory analysis using SQL
+-	Connect PowerBI to the database
+- Visualize
+-	Summarise findings
